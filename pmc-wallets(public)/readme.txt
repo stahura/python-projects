@@ -8,7 +8,7 @@ The API Calls and key for the wallets come from etherscan.io
 
 Before running the py file, make sure to activate the virtual environment:
 	
-	> pmcdata-env/bin/activate
+	> source pmcdata-env/bin/activate
 	> python3 pmcdata.py
 
 
